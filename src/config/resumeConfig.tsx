@@ -81,7 +81,7 @@ export const resumeConfig = {
 
     {
       name: "Tiktok",
-      href: "https://www.tiktok.com/@akitomiyazaki?is_from_webapp=1&sender_device=pc", // ลิงก์ไปยังหน้าโปรไฟล์ TikTok
+      href: "https://www.tiktok.com/@akitomiyazaki", // ลิงก์ไปยังหน้าโปรไฟล์ TikTok
       icon: (
         <svg
           width="20"
